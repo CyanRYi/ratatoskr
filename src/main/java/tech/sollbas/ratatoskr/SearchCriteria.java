@@ -1,4 +1,4 @@
-package org.sollbas.ext.jpa;
+package tech.sollbas.ratatoskr;
 
 public class SearchCriteria {
 
